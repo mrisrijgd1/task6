@@ -1,5 +1,5 @@
 # Introduction
-This task is from Google Code-In. Here you learn how to 
+This task is from Google Code-In. Here you learn to use the simple Cranlogs API to obtain something. 
 
 # Requirements
 - R
@@ -11,7 +11,7 @@ This task is from Google Code-In. Here you learn how to
 ```
 #Task 6
 
-#Use the simple Cranlogs API to obtain R package download summaries in 2018
+#Use the simple Cranlogs API to obtain half-yearly R package downloads summaries in 2018
 library("jsonlite")
 #The task is to obtain the total downloads of all R packages in 2018, half-yearly and save the results in a single CSV file
 Mridula=jsonlite::fromJSON("https://cranlogs.r-pkg.org/downloads/total/2018-01-01:2018-06-30")
