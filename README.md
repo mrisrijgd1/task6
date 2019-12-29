@@ -21,7 +21,7 @@ Mriduls=rbind(Mridula, Mridul)
 write.csv(Mriduls,"C:\\Users\\srish\\Desktop\\mridul.csv")
 ```
 # Screen Cast
-![Record]()
+![Record](http://g.recordit.co/oJ0BUCzns1.gif)
 
 # Authors
 - Mridul
